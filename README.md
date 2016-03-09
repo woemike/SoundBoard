@@ -1,5 +1,9 @@
---SoundBoard Mobile Application--
+This is a starter template for a [Code Craft](https://codecraftpro.com/) course on developing mobile apps with the [Ionic Framework](http://ionicframework.com/).
 
-Course from Udemy: --Ionic: From Web to Mobile--
+## How to use this template
 
-Ionic mobile applications designed by Asim Hussain and edited by me.
+*This template does not work on its own*. It is missing the Ionic library, and AngularJS.
+
+To use this, either create a new ionic project using the ionic node.js utility, or copy and paste this into an existing Cordova project and download a release of Ionic separately.
+
+A sound board which displays and plays songs.
